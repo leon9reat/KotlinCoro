@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinCoro</string>
+    <string name="photo_profile">Photo Profile</string>
+</resources>
